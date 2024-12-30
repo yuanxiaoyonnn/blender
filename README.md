@@ -1,2 +1,2 @@
 # blender
-菜鸟学blender编程
+菜鸟学blender插件开发
