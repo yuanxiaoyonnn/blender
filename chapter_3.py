@@ -1,5 +1,5 @@
 #if判断
-# samples = input("请输入你的渲染采样")
+samples = input("请输入你的渲染采样")
 #samples=int (samples)
 #print(samples,type(samples))
 
