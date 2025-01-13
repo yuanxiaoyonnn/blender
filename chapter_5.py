@@ -21,7 +21,7 @@ for k in dict1.keys():
     print(k)
 for v in dict1.values():
     print(v)
- for k,v in dict1.items():
+for k,v in dict1.items():
     print(k,v)
 # 列表到字典
 list3=[1,10,10,8,2,5,4,4,0,5]
